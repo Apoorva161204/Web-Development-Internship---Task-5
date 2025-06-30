@@ -19,9 +19,9 @@ A responsive portfolio website demonstrating:
 
 ### 1. Repository Setup
 ```bash
-# Created GitHub repository named: DiljithSurendran.github.io
+# Created GitHub repository named: ApoorvaPrakash.github.io
 # Cloned repository locally
-git clone https://github.com/DiljithSurendran/DiljithSurendran.github.io.git
+git clone https://github.com/ApoorvaPrakash/ApoorvaPrakash.github.io.git
 ```
 
 ### 2. Website Files Added
@@ -44,7 +44,7 @@ git push origin main
 - Enabled GitHub Pages in repository settings
 - Source: Deploy from branch `main`
 - Folder: `/ (root)`
-- Website automatically deployed to: `https://<yourusername>.github.io`
+- Website automatically deployed to: `https://ApoorvaPrakash.github.io`
 
 ## 🔧 Key Features Implemented
 
@@ -99,8 +99,8 @@ git push origin main
 - Optimized images and assets
 
 ## 🔗 Links
-- **Live Website**: `https://DiljithSurendran.github.io`
-- **Repository**: `https://github.com/DiljithSurendran/DiljithSurendran.github.io`
+- **Live Website**: `https://ApoorvaPrakash.github.io`
+- **Repository**: `https://github.com/ApoorvaPrakash/ApoorvaPrakash.github.io`
 
 ## 📋 Interview Questions Preparation
 
@@ -124,7 +124,7 @@ git push origin main
 - ✅ Modern web development practices
 
 ## 🎯 Task Requirements Met
-- [x] Created GitHub repository named `DiljithSurendran.github.io`
+- [x] Created GitHub repository named `ApoorvaPrakash.github.io`
 - [x] Cloned repository locally
 - [x] Added static website files (HTML, CSS, JS)
 - [x] Committed and pushed files to GitHub
@@ -135,7 +135,7 @@ git push origin main
 
 ---
 
-**Task Completed By:** Apoorva P  
-**Date:** 30/06/2025 
+**Task Completed By:** Apoorva P
+**Date:** 30/06/2025
 **Internship Program:** Web Development Internship  
 **Task Number:** Task 5 - GitHub Pages Deployment
